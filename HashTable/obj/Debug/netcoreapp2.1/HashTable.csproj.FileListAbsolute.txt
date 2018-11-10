@@ -1,0 +1,11 @@
+D:\Projects\Git\HashTable\HashTable\bin\Debug\netcoreapp2.1\HashTable.deps.json
+D:\Projects\Git\HashTable\HashTable\bin\Debug\netcoreapp2.1\HashTable.runtimeconfig.json
+D:\Projects\Git\HashTable\HashTable\bin\Debug\netcoreapp2.1\HashTable.runtimeconfig.dev.json
+D:\Projects\Git\HashTable\HashTable\bin\Debug\netcoreapp2.1\HashTable.dll
+D:\Projects\Git\HashTable\HashTable\bin\Debug\netcoreapp2.1\HashTable.pdb
+D:\Projects\Git\HashTable\HashTable\obj\Debug\netcoreapp2.1\HashTable.csprojAssemblyReference.cache
+D:\Projects\Git\HashTable\HashTable\obj\Debug\netcoreapp2.1\HashTable.csproj.CoreCompileInputs.cache
+D:\Projects\Git\HashTable\HashTable\obj\Debug\netcoreapp2.1\HashTable.AssemblyInfoInputs.cache
+D:\Projects\Git\HashTable\HashTable\obj\Debug\netcoreapp2.1\HashTable.AssemblyInfo.cs
+D:\Projects\Git\HashTable\HashTable\obj\Debug\netcoreapp2.1\HashTable.dll
+D:\Projects\Git\HashTable\HashTable\obj\Debug\netcoreapp2.1\HashTable.pdb
